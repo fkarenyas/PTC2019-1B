@@ -22,6 +22,7 @@ public class TiposDeDatos {
          
       System.out.println("variables"+entero);
       System.out.println("Nuevo repositorio");
+      System.out.println("Nueva linea");
         
                 
        
